@@ -36,6 +36,7 @@
 
 
 <h3 align="left">Experience:</h3>
+
 - **Student Database Analyst Intern**
   - Kent State University Facility Management, USA
   - May 2023 - August 2023
